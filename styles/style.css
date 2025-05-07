@@ -42,3 +42,10 @@ table {
 	border-spacing: 0;
 }
 /* !Code */
+@font-face {
+    font-family: "Deca";
+    src: url("../assets/fonts/LexendDeca.ttf");
+}
+body{
+    font-family:  "Deca", 'Arial Narrow', Arial, sans-serif
+}
